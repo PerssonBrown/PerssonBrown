@@ -1,16 +1,13 @@
-### Hi there 👋
+# Personal Information
+- Name: Persson Brown
+- Country: China
+- Birth: 2008/08
+- Mail: `Liuyx0808@outlook.com`
+- Luogu account:[Persson_Brown](https://www.luogu.com.cn/user/389684)
 
-<!--
-**PerssonBrown/PerssonBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+Still a kid, just a few years into programming.
 
-Here are some ideas to get you started:
+I am learning C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And my [Luogu](https://www.luogu.com.cn) account: [Persson_Brown](https://www.luogu.com.cn/user/389684).
