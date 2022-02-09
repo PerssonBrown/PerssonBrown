@@ -3,7 +3,7 @@
 - Country: China
 - Birth: 2008/08
 - Mail: `Liuyx0808@outlook.com`
-- Luogu account:[Persson_Brown](https://www.luogu.com.cn/user/389684)
+- Luogu account:[PerssonBrown](https://www.luogu.com.cn/user/389684)
 
 # About Me
 Still a kid, just a few years into programming.
